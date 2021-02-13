@@ -34,6 +34,7 @@
  margin-top: 7px;
  height: 30px;
  width: 30px;
+ object-fit: cover;
 }
 
 .contacts{
