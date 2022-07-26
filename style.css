@@ -1,3 +1,5 @@
+
+
 .back-top{
  background-color:  #009688;
  height: 15vh;
@@ -58,4 +60,7 @@
 
 .message-box{
  background-color: #F0F0F0;
+}
+.row {
+    background-color: rgb(245, 236, 223);
 }
